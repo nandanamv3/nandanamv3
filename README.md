@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandanamv3
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning html,css,react.js
+- 🌱 I’m currently working on react and apis
 - 📫 How to reach me nandanaattore@gmail.com
 
 <!---
